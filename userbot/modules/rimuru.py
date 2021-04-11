@@ -433,6 +433,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Tapi Bo'ong`")
 
+
 @register(outgoing=True, pattern='^.smngt(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
@@ -455,6 +456,7 @@ async def typewriter(typew):
 
 # Create by myself @localheart
 
+
 @register(outgoing=True, pattern='^.ukp(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
@@ -474,6 +476,7 @@ async def typewriter(typew):
     await typew.edit("`NUNGGU LU❤️`")
     sleep(1)
     await typew.edit("`TAPI GPP GUA BAKAL NUNGGU LU KOK❤️❤️❤️`")
+
 
 @register(outgoing=True, pattern='^.rim(?: |$)(.*)')
 async def typewriter(typew):
@@ -498,6 +501,7 @@ async def typewriter(typew):
     await typew.edit("`JANGAN TINGGALIN AKU YA💙❤️💛`")
     sleep(1)
     await typew.edit("`AKU SAYANG KAMU❤️💛💙`")
+
 
 @register(outgoing=True, pattern='^.rim2(?: |$)(.*)')
 async def typewriter(typew):
@@ -524,6 +528,7 @@ async def typewriter(typew):
     await typew.edit("`MAU DI TABOK HAH🥺`")
     sleep(1)
     await typew.edit("`GENIT KU KISS😝`")
+
 
 @register(outgoing=True, pattern='^.rim3(?: |$)(.*)')
 async def typewriter(typew):
@@ -564,6 +569,7 @@ async def typewriter(typew):
     await typew.edit("`NAMUN☺️!!`")
     sleep(2)
     await typew.edit("`ASAL KAMU BAHAGIA😢🥺`")
+
 
 @register(outgoing=True, pattern='^.rim4(?: |$)(.*)')
 async def typewriter(typew):
