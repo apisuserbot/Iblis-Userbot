@@ -1,5 +1,5 @@
 # IBLIS USERBOT
-FROM rimuru07/Iblisbot:buster
+FROM koala21/kampangbot:buster
 
 #
 # IBLIS
