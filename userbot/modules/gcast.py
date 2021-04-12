@@ -5,7 +5,7 @@
 
 from userbot.events import register
 from userbot import CMD_HELP, bot
-# Alvin Ganteng
+# Rimuru Ganteng
 
 
 @register(outgoing=True, pattern="^.gcast (.*)")
