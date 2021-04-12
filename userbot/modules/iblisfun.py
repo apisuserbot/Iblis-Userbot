@@ -17,7 +17,7 @@ async def _(event):
     await tap[0].click(event.chat_id)
     await event.delete()
 
-# Alvin Gans
+# Rimuru Gans
 
 
 @register(outgoing=True, pattern=r"^\.wp(?: |$)(.*)")
@@ -32,7 +32,7 @@ async def _(event):
     await tap[0].click(event.chat_id)
     await event.delete()
 
-# Alvin Gans
+# Rimuru Gans
 
 
 @register(outgoing=True, pattern=r"^\.mod(?: |$)(.*)")
