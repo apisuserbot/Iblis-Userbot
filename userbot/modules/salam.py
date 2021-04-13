@@ -61,7 +61,6 @@ async def typewriter(typew):
     await typew.edit("Wa'alaikumussalam")
 
 
-
 CMD_HELP.update({
     "salam":
     "`.P`\
