@@ -2,6 +2,19 @@
 USERBOT INI HANYA UNTUK BERSENANG SENANG
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5520025.gif" width="319" height="74" alt="IBLIS USERBOT" /></a>
 
+[![Stars](https://img.shields.io/github/stars/rimuru07/Iblis-Userbot?style=flat-square&color=yellow)](https://github.com/rimuru07/Iblis-Userbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/rimuru07/Iblis-Userbot?style=flat-square&color=orange)](https://github.com/rimuru07/Iblis-Userbot/fork)
+[![Size](https://img.shields.io/github/repo-size/rimuru07/Iblis-Userbot?style=flat-square&color=green)](https://github.com/rimuru07/Iblis-Userbot/)   
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rimuru07/Iblis-Userbot/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rimuru07/Iblis-Userbot)   
+[![Contributors](https://img.shields.io/github/contributors/rimuru07/Iblis-Userbot?style=flat-square&color=green)](https://github.com/rimuru07/Iblis-Userbot/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/rimuru07/Iblis-Userbot/blob/main/LICENSE)   
+[![HitCount](http://hits.dwyl.com/rimuru07/rimuru07/Iblis-Userbot.svg)](http://hits.dwyl.com/rimuru07/rimuru07/Iblis-Userbot)   
+[![Sparkline](https://stars.medv.io/rimuru07/Iblis-Userbot.svg)](https://stars.medv.io/rimuru07/Iblis-Userbot)
+
+
 
 <p align="center">
   <a href="https://github.com/rimuru/Iblis-Userbot/fork">
