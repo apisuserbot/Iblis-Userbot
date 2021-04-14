@@ -619,9 +619,29 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`KENANGAN SUDAH DI HAPUS SENSEI`")
 
+@register(outgoing=True, pattern='^.rim(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(1)
+    await typew.edit("`KALO GK SAYANG`")
+    sleep(2)
+    await typew.edit("`SAMA GUA TUH BILANG`")
+    sleep(2)
+    await typew.edit("`JANGAN MALAH GINI`")
+    sleep(2)
+    await typew.edit("`GUA TAU,GUA JELEK`")
+    sleep(2)
+    await typew.edit("`JADI LU CUEK KE GUA`")
+    sleep(2)
+    await typew.edit("`TAPI TOLONG KALO LU GK`")
+    sleep(2)
+    await typew.edit("`SAYANG SAMA GUA, BIAR GUA YANG MUNDUR`")
+
 CMD_HELP.update({
     "rimuru":
     "`.gabut` ; `.dino\
+    \nPenjelasan: sad
+    \n\n`.sad`\
     \nPenjelasan: ntahlah gabut doang.\
     \n\n`.gombal\
     \nPenjelasan: buat bercanda\
