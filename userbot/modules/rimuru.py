@@ -639,14 +639,7 @@ async def typewriter(typew):
     await typew.edit("`SAYANG SAMA GUA, BIAR GUA YANG MUNDUR`")
 
 CMD_HELP.update({
-    "rimuru": "`.gabut` ; `.dino`\
-
-\nP
-    enjelasan:
-    ntahlah gabut
-
-
-    \n\n`.gombal`
+    "rimuru": "`.gabut` ; `.dino`
     \nPenjelasan: buat bercanda
     \n\n`.cinta`
     \nPenjelasan: mengirim cintamu ke seseorang.
