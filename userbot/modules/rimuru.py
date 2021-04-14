@@ -641,6 +641,7 @@ async def typewriter(typew):
 CMD_HELP.update({
     "rimuru":
     "`.gabut` ; `.dino\
+
 \nPenjel
     asan: sad
     \n\n`.sad`
