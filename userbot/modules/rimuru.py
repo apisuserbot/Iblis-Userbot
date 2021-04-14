@@ -643,7 +643,7 @@ CMD_HELP.update({
 
 \nP
     enjelasan:
-   ntahlah gabut
+    ntahlah gabut
 
 
     \n\n`.gombal`
