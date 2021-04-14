@@ -643,9 +643,7 @@ async def typewriter(typew):
 CMD_HELP.update({
     "rimuru":
     "`.gabut` ; `.dino` ; `.sad\
-
-\nPenjelasan: nt
-    ahlah gabut doang.
+    \nPenjelasan: ntahlah gabut doang.
     \n\n`.gombal
     \nPenjelasan: buat bercanda
     \n\n`.cinta`
