@@ -642,8 +642,7 @@ CMD_HELP.update({
     "rimuru":
     "`.gabut` ; `.dino\
 
-\nPenjel
-    asan: sad
+    \nPenjelasan: sad.
     \n\n`.sad`
     \nPenjelasan: ntahlah gabut doang.
     \n\n`.gombal
