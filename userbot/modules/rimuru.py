@@ -636,14 +636,13 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`TAPI TOLONG KALO LU GK`")
     sleep(2)
-    await typew.edit("`SAYANG SAMA GUA BIAR GUA YANG MUNDUR`")
+    await typew.edit("`SAYANG SAMA GUA`")
+    sleep(2)
+    await typew.edit("`BIAR GUA YANG MUNDUR"`)
 
 CMD_HELP.update({
     "rimuru":
-    "`.gabut` ; `.dino\
-
-    \nPenjelasan: sad.
-    \n\n`.sad`
+    "`.gabut` ; `.dino` ; `.sad\
     \nPenjelasan: ntahlah gabut doang.
     \n\n`.gombal
     \nPenjelasan: buat bercanda
