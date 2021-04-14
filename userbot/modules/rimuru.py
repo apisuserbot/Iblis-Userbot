@@ -620,15 +620,21 @@ async def typewriter(typew):
     await typew.edit("`KENANGAN SUDAH DI HAPUS SENSEI`")
 
 CMD_HELP.update({
-    "rimuru":
-    "`.gabut` ; `.dino`
+    "rimuru": "`.gabut`
+    `.dino`
 
-\nPenjelasan: ntahlah gabut doang.
+    \nPenjelasan: ntahlah gabut doang.
     \n\n`.gombal
     \nPenjelasan: buat bercanda
     \n\n`.cinta`
     \nPenjelasan: mengirim cintamu ke seseorang.
-    \n\n`.sayang`; `.smngt`; `.ukp`; `.rim`; `.rim2`; `.rim3`; `.rim4
+    \n\n`.sayang`
+    `.smngt`
+    `.ukp`
+    `.rim`
+    `.rim2`
+    `.rim3`
+    `.rim4
     \nPenjelasan: untuk jadi buaya.
     \n\n`.terkadang`
     \nPenjelasan: Auk dah iseng doang."
