@@ -620,7 +620,7 @@ async def typewriter(typew):
     await typew.edit("`KENANGAN SUDAH DI HAPUS SENSEI`")
 
 
-@register(outgoing=True, pattern='^.rim(?: |$)(.*)')
+@register(outgoing=True, pattern='^.sad(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
@@ -638,11 +638,9 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`SAYANG SAMA GUA, BIAR GUA YANG MUNDUR`")
 
-
 CMD_HELP.update({
     "rimuru":
     "`.gabut` ; `.dino\
-
 \nPenjel
     asan: sad
     \n\n`.sad`
