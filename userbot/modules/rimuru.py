@@ -643,8 +643,9 @@ CMD_HELP.update({
 
 \nP
     enjelasan:
-    ntahlah ga
-    but doang.
+   ntahlah gabut
+
+
     \n\n`.gombal`
     \nPenjelasan: buat bercanda
     \n\n`.cinta`
