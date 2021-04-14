@@ -638,7 +638,7 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`SAYANG SAMA GUA`")
     sleep(2)
-    await typew.edit("`BIAR GUA YANG MUNDUR"`)
+    await typew.edit("`BIAR GUA YANG MUNDUR`")
 
 CMD_HELP.update({
     "rimuru":
